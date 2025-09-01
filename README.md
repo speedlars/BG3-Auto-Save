@@ -2,6 +2,8 @@
 
 [載點](https://github.com/speedlars/BG3-Auto-Save/releases/tag/v1.0.0)
 
+上面的檔案為v1.0.0版本
+
 <img width="122" height="186" alt="image" src="https://github.com/user-attachments/assets/6de3c964-723e-4cae-9cc3-6249441648ce" />   
 
 適用於柏德之門3的自動存檔程式，會每過五分鐘自動按下F5一次。

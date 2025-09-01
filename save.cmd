@@ -1,0 +1,1 @@
+C:/Users/User/anaconda3/python.exe C:\Users\User\Desktop\click\BG3\save.py

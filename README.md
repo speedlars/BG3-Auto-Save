@@ -8,10 +8,10 @@
 
 開啟自動存檔功能時視窗須保持在遊戲介面中，同時程式斥窗不得關閉。
 
-如過想要讓程式在遊戲從steam開啟時自動開啟，可以從steam介面中右邊的管理(或者點右鍵)->內容->一般->啟動選項欄位填入：
+如過想要讓程式在遊戲從steam開啟時自動開啟，可以從steam介面中右邊的`管理(或者點右鍵) -> 內容 -> 一般 -> 啟動選項`欄位填入：
 
 ```
-powershell -WindowStyle Hidden -Command "& {Start-Process '(此程式的資料夾路徑)\save.exe'; Start-Process '%command%'}"
+powershell -WindowStyle Hidden -Command "& {Start-Process '硬碟:\(此程式的資料夾路徑)\save.exe'; Start-Process '%command%'}"
 ```
 
 <img width="1226" height="601" alt="image" src="https://github.com/user-attachments/assets/52be88fe-20f2-424a-8590-2f16da793701" />

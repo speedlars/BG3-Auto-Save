@@ -1,8 +1,8 @@
-# BG3-Auto-Save
-
-[載點](https://github.com/speedlars/BG3-Auto-Save/releases/tag/v1.0.0)
+# BG3 Auto Save
 
 上面的檔案為v1.0.0版本
+
+[最新版本載點](https://github.com/speedlars/BG3-Auto-Save/releases/tag/v1.0.1)
 
 <img width="122" height="186" alt="image" src="https://github.com/user-attachments/assets/6de3c964-723e-4cae-9cc3-6249441648ce" />   
 
